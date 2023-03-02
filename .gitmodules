@@ -1,0 +1,12 @@
+[submodule "yers"]
+	path = yers
+	url = https://github.com/Asylniet/yers.git
+[submodule "ZholbikTigr"]
+	path = ZholbikTigr
+	url = https://github.com/Asylniet/ZholbikTigr.git
+[submodule "week2_web"]
+	path = week2_web
+	url = https://github.com/Asylniet/week2_web.git
+[submodule "marat"]
+	path = marat
+	url = https://github.com/Asylniet/marat.git
